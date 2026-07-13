@@ -1,7 +1,0 @@
-Hello!
-
-Welcome to our AWS Text-to-Audio Converter.
-
-This project converts uploaded text files into natural-sounding speech using Amazon Polly.
-
-Thank you for using our application.
