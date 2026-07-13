@@ -164,12 +164,3 @@ Through this project, we learned:
 
 ---
 
-## 👨‍💻 Author
-
-**Girishma Giri**
-
-Developed as part of an academic cloud computing project to demonstrate serverless text-to-speech conversion using AWS services.
-
----
-
-## ⭐ If you found this project useful, consider giving it a Star!
